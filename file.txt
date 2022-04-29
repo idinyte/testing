@@ -1,3 +1,6 @@
 Change1
 
 LCD 1
+LCCD 22
+
+KEYBOARD 1
